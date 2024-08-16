@@ -1,0 +1,1 @@
+This is the example file test for git in NP intern ex1, ex2
